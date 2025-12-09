@@ -1,0 +1,5 @@
+{
+  "name": "NexusBot Admin",
+  "description": "A unified management dashboard for monitoring and configuring multi-platform AI chatbots. Features real-time chat aggregation, prompt engineering, and system analytics.",
+  "requestFramePermissions": []
+}
